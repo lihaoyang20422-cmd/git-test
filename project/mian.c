@@ -17,8 +17,8 @@ int main(void)
     fun2();
 
     int a = 10;
-    int b = 0;
-    printf("a + b = %d", a + b);
+    int b = 2;
+    printf("a / b = %d", a / b);
     while(1)
     {
         printf("hello world ! \n");
