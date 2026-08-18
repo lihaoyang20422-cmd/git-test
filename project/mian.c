@@ -19,6 +19,8 @@ int main(void)
     int a = 10;
     int b = 2;
     printf("a / b = %d", a / b);
+    int c = a - b;
+    printf("c = %d", c);
     while(1)
     {
         printf("hello world ! \n");
